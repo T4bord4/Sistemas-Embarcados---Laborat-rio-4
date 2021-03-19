@@ -1,0 +1,12 @@
+# ninja log v5
+1	36	6378181974847538	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/Projects/tarefas/ewarm/Obj/startup_TM4C1294.o	2cc48999f3d05f1
+14	137	6378181975754982	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/Projects/tarefas/ewarm/Obj/RTX_Config.o	867c5d5c46c4b6b4
+41	168	6378181976014288	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/Projects/tarefas/ewarm/Obj/driverleds.o	b42078d7b1efc9a9
+147	273	6378181977101578	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/Projects/tarefas/ewarm/Obj/system_TM4C1294_TW.o	57abdc5e2b8ee583
+179	313	6378181977410560	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/Projects/tarefas/ewarm/Obj/rtx_lib.o	6d9d3024832bc90
+1	111	6378191883213641	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/Projects/tarefas/ewarm/Obj/tarefas.o	ae56106842140ce1
+122	413	6378191886139110	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/Projects/tarefas/ewarm/Exe/tarefas.out	f4ac4f7b83c39fa0
+430	514	6378191887340891	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/Projects/tarefas/ewarm/Exe/tarefas.bin	76a2f1aa3c0dcac3
+4	133	6378193880187948	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/Projects/tarefas/ewarm/Obj/tarefas.o	ae56106842140ce1
+145	284	6378193881674175	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/Projects/tarefas/ewarm/Exe/tarefas.out	f4ac4f7b83c39fa0
+294	317	6378193882122779	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/Projects/tarefas/ewarm/Exe/tarefas.bin	76a2f1aa3c0dcac3
